@@ -1,0 +1,5 @@
+C:/Users/mljas/Documents/sistema micro/Lab03/STM32Base/build/debug/CMakeFiles/STM32Base.dir
+C:/Users/mljas/Documents/sistema micro/Lab03/STM32Base/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/mljas/Documents/sistema micro/Lab03/STM32Base/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mljas/Documents/sistema micro/Lab03/STM32Base/build/debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/mljas/Documents/sistema micro/Lab03/STM32Base/build/debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
